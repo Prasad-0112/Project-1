@@ -1,3 +1,6 @@
-print("Welcome to Github"
+print("Welcome to Github")
+a=10
+print(a)
+
 
 
